@@ -4,3 +4,6 @@
 *.log
 
 .idea/
+book-services/project/target/
+project/project/
+project/target/
